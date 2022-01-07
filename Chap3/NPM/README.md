@@ -1,6 +1,6 @@
 1. What is NPM? What is package management? Why would we use it?<br>
 Node Package Manager<br>
-resemblence: grocery <-- code<br>
+resemblance: grocery <-- code<br>
 
 <h>Baking a Cake</h>
 - Flour<br>
